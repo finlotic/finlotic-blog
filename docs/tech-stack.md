@@ -69,7 +69,7 @@ Nuxt is the Next.js equivalent in the Vue.js world. Has the same advantages of N
 
 Has good CMS support as well. 
 
-It is currently based of Vue 2, and Vue 3 (Which seems to have many breaking changes) support is not yet. May not be the best time to pick this up. 
+It is currently based of Vue 2, and Vue 3 (Which seems to have many breaking changes) support is not there yet. May not be the best time to pick this up. 
 
 ##### **Elevnty**
 
@@ -82,7 +82,7 @@ We can use Elevnty, which is a Jeykll replacement with, Vue as a template. [Expl
 
 Again it's the next.js of the Svelte world. [Introductory blog post](https://svelte.dev/blog/sapper-towards-the-ideal-web-app-framework)
 
-This seems to be the in terms of performance. Really small bundle size with compiled code approach. But it may be lacking in CMS / Cloud support. 
+This seems to be the best in terms of performance. Really small bundle size with compiled code approach. But it may be lacking in CMS / Cloud support. 
 
 #### **Other SSG frameworks**  
 * [Elevnty](https://www.11ty.dev/) with Pug / Handlebars templates 
