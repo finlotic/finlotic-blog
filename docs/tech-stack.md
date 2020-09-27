@@ -91,7 +91,7 @@ This seems to be the best in terms of performance. Really small bundle size with
 
 * [Jekyll](https://jekyllrb.com/)
 
-> Descision to be Made??
+> Going with React and Next.js
 
 ---
 
